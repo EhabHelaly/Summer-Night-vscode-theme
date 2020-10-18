@@ -2,7 +2,7 @@
 	"name": "summer-night",
 	"displayName": "Summer Night",
 	"description": "Summer Night theme for vs-code, both dark and light colorfull themes with high contrast for clear view, Theme is basicly for (C/C++, XML, OIL, LUA) syntax highlight. the dark theme is based on Monokai default theme",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "EhabHelaly",
 	"license": "GPL3",
 	"engines": {
